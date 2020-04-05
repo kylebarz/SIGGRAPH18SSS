@@ -14,7 +14,7 @@ import numpy as np
 
 #from tensorflow.python.keras._impl.keras.initializers import he_normal
 #from tensorflow.keras._impl.keras.initializers import he_normal
-from tf.keras.initializers import he_normal
+from tensorflow.keras.initializers import he_normal
 from tensorflow.python import debug as tf_debug
 
 from .base import Model
